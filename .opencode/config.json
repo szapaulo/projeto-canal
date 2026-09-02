@@ -1,0 +1,39 @@
+{
+  "context": "This repository is the central brain of the Polvo 4.1 project — an autonomous content creation system for dark channels using AI agents. The goal is to build a fully automated pipeline from content discovery to publishing and learning. The repository is an Obsidian vault with wikilinks, Dataview, and Kanban.",
+  "language_convention": "Planning/study notes are in pt-BR. Technical files (README, .opencode, scripts, metadata/properties, SOPs) are in EN. Agent definitions and prompts are in EN.",
+  "golden_rules": [
+    "Monthly budget ceiling: R$300. Never exceed without explicit user approval.",
+    "Core paid tools: Claude Pro + CapCut Pro (~R$170-190). Remainder is compute fund for APIs/credits.",
+    "Always log decisions in 10_Changelog/Changelog.md before making major changes.",
+    "Agents run autonomously via n8n + MCP. This repo is memory, not runtime.",
+    "Every script, prompt, SOP, and agent definition must be versioned and tracked."
+  ],
+  "token_budget": {
+    "always_read": ["README.md", "00_Start_Here/Quickstart_Agent.md"],
+    "read_next": ["01_Planejamento/Planejamento de Stack.md", "10_Changelog/Changelog.md"],
+    "on_demand": ["SOPs", "agent definitions", "prompt library", "study notes"],
+    "skip_unless_relevant": ["03_Memoria/*", "08_Metricas/*"]
+  },
+  "obsidian_features": {
+    "templates": "99_Templates/",
+    "dashboard": "00_Start_Here/Dashboard.md",
+    "kanban": "07_Producao/Kanban.md",
+    "dataview_queries": "Used in Dashboard for dynamic status overview",
+    "graph_view": "Uses frontmatter properties (type, status, tags) for color grouping",
+    "bases": "Obsidian Bases plugin enabled for structured data on 08_Metricas/"
+  },
+  "key_paths": {
+    "planning": "01_Planejamento/",
+    "study": "02_Estudo/",
+    "memory": "03_Memoria/",
+    "sops": "04_SOPs/",
+    "prompts": "05_Prompts/",
+    "agents": "06_Agentes/",
+    "production": "07_Producao/",
+    "metrics": "08_Metricas/",
+    "automations": "09_Automacoes/",
+    "changelog": "10_Changelog/",
+    "templates": "99_Templates/",
+    "assets": "Assets/"
+  }
+}

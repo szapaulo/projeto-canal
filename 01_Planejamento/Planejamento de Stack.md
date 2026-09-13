@@ -114,21 +114,26 @@ Ele guarda aquilo que o sistema aprende.
 ```
 POLVO/
 │
-├── 01_NICHOS
-├── 02_VIRAIS
-├── 03_HOOKS
-├── 04_TEMAS
-├── 05_ANGULOS
-├── 06_ROTEIROS
-├── 07_PROMPTS
-├── 08_FORMATOS
-├── 09_SOPS
-├── 10_CONTEUDOS_PUBLICADOS
-├── 11_METRICAS
-├── 12_PADROES_VENCEDORES
-├── 13_EXPERIMENTOS
-├── 14_AGENTES
-└── 15_AUTOMACOES
+├── 01_Planejamento
+├── 02_Estudo
+├── 03_Conhecimento_Base
+│   ├── 00_Índice
+│   ├── 01_Ideias
+│   ├── 02_Taxonomia
+│   ├── 03_Formatos_Hooks
+│   ├── 04_Virais_Tendencias
+│   ├── 05_Padroes_Vencedores
+│   ├── 06_Experimentos
+│   ├── 07_Angulos
+│   └── 08_Estrategia
+├── 04_SOPs
+├── 05_Prompts
+├── 06_Agentes
+├── 07_Producao
+├── 08_Metricas
+├── 09_Automacoes
+├── 10_Changelog
+└── 99_Templates
 ```
 
 ### O objetivo:

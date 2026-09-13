@@ -16,11 +16,24 @@ Sou novo nessa área e sei que não vou revolucionar e nem criar um case de suce
 
 Para faturar é necessários ter muitas visualizações mas um canal novo não vai ter muitos inscritos, as visualizações virão através da entrega que o youtube fará dos meus videos. Preciso entender melhor essa entrega e como funciona o algorítimo -> ver o que esta em alta no momento. O youtube quer viewers acima de tudo, se meu conteúdo gera bastante engajamento ele irá entregá-lo para cada vez mais usuários gerando views e inscrições. 
 
-Meu Perfil:
-- Tenho 35 anos nascido em 1991
-- Fiz faculdade de ciência da computação em 210
-- Sou engenheiro de software com 10 anos de experiencia
-- Não tenho experiencia com criação de conteúdos.
-- Não tenho experiencia com edição de videos.
-- Não tenho experiencia com paginas/blogs/redes sociais
-- Não tenho muitas skills sociais nem oratória
+# Equipe
+## Paulo
+### perfil
+- 35 anos nascido em 1991
+- Faculdade de ciência da computação em 210
+- Engenheiro de software com 10 anos de experiencia
+### skills
+- Obsidian
+- Claude	
+- Backend
+- JS
+### interesses
+- Jogos
+	- Dota 2
+### gaps
+- Sem experiencia com criação de conteúdos.
+- Sem experiencia com edição de videos.
+- Sem experiencia com paginas/blogs/redes sociais
+- Sem muitas skills sociais nem oratória
+## Estevão
+- Edição de video

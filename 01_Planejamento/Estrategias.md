@@ -13,7 +13,8 @@ Levantar:
 - Verificar possibilidade de gerar conteúdos em múltiplos idiomas(Principalmente Ingles e espanhol alem do portugues/BR)
 - Múltiplos canais?
 - Quais redes sociais? Apenas YouTube e TikTok no inicio? Quando facebook, instagram e twiiter fazem sentido? 
-- Videos curtos vs longos 
+- Videos curtos vs longos (esse projeto é focado em videos curtos. mas vale a pena fazer uma analise das características a diferenças para videos longos, para analisar se vale a pena criar um canal de videos longos no futuro)
+- Polemicas: evitar ou nao?
 ## Método Polvo 4.0
 ## Monetização
 Levantar quais redes sociais e tipos de conteúdos pagam mais
@@ -37,5 +38,5 @@ quais palavras/termos utilizar
 ## Ferramentas
 Quais ferramentas utilizar em cada etapa, 
 Modelos de IAs?(gpt, claude, gemini, deepseek)
-Edição de video?(capcut, cutwire)
-Automação?(compensa utilizar n8n ou como sou dev devo desenvolver ferramentas e scripts?)
+Edição de video?(capcut, cutwire, opencut)
+Automação?(compensa utilizar n8n ou desenvolver sistemas/ferramentas/scripts?)

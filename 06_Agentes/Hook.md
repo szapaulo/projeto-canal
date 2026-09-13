@@ -54,7 +54,7 @@ Especialista nos primeiros segundos. Cria e avalia hooks que prendem a atenção
 | Ferramenta | Propósito |
 |---|---|
 | Claude/ChatGPT | Geração e avaliação de hooks |
-| Obsidian | Biblioteca de hooks em `03_Memoria/Hooks/` |
+| Obsidian | Biblioteca de hooks em `03_Conhecimento_Base/03_Formatos_Hooks/Hooks/` |
 
 ---
 

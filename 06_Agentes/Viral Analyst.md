@@ -56,7 +56,7 @@ CTA        → Call to action
 | Ferramenta | Propósito |
 |---|---|
 | Claude/ChatGPT | Análise profunda de estrutura |
-| Obsidian | Armazenar DNA em `03_Memoria/Virais/` |
+| Obsidian | Armazenar DNA em `03_Conhecimento_Base/04_Virais_Tendencias/` |
 
 ---
 

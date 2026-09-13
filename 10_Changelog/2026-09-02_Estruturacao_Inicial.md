@@ -71,7 +71,7 @@ O repositório foi criado como vault Obsidian para servir de "cérebro central" 
 - `00_Start_Here/Quickstart_Agent.md` — criado
 - `01_Planejamento/*` — frontmatter adicionado, wikilinks atualizados
 - `02_Estudo/*` — reorganizado, frontmatter, wikilinks atualizados
-- `03_Memoria/*` — reorganizado, frontmatter adicionado
+- `03_Conhecimento_Base/*` — reorganizado, frontmatter adicionado
 - `04_SOPs/*` — criado (SOP-001)
 - `05_Prompts/Prompts.md` — criado
 - `06_Agentes/*` — 18 agentes + MOC criados

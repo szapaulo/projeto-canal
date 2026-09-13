@@ -12,16 +12,16 @@ Lista de termos relevantes e definições para o projeto.
 
 ## Conceitos de Criação de Conteúdo
 
-| Termo | Definição |
-|---|---|
-| **Hook** | Os primeiros 1-3 segundos do vídeo. É o gancho que prende a atenção do espectador para evitar o scroll. Deve conter curiosidade, surpresa, conflito ou promessa. |
-| **CTA** | Call To Action. Comando ao final do vídeo que direciona o espectador a uma ação (curtir, comentar, compartilhar, inscrever-se, assistir próximo vídeo). |
-| **B-roll** | Imagens ou vídeos secundários sobrepostos à narração principal. Serve para ilustrar o que está sendo dito e manter o dinamismo visual. |
-| **Curiosity Gap** | Lacuna de curiosidade. Técnica onde se revela parte da informação mas retém o desfecho, forçando o espectador a assistir até o final para saciar a curiosidade. |
-| **Payoff** | A entrega/recompensa do vídeo. O momento em que a promessa feita no hook/curiosity gap é cumprida. Se o payoff não entrega, o espectador sai frustrado. |
-| **Retenção** | Métrica que mostra em que porcentagem do vídeo os espectadores pararam de assistir. Fundamental para entender se o conteúdo mantém interesse. |
-| **Watch Time** | Tempo total que os espectadores passaram assistindo seus vídeos. Métrica crucial para o algoritmo do YouTube. |
-| **CTR** | Click Through Rate. Taxa de cliques = (cliques / impressões) × 100. Mede o quão atrativo é seu título + thumbnail. |
+| Termo             | Definição                                                                                                                                                        |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hook**          | Os primeiros 1-3 segundos do vídeo. É o gancho que prende a atenção do espectador para evitar o scroll. Deve conter curiosidade, surpresa, conflito ou promessa. |
+| **CTA**           | Call To Action. Comando ao final do vídeo que direciona o espectador a uma ação (curtir, comentar, compartilhar, inscrever-se, assistir próximo vídeo).          |
+| **B-roll**        | Imagens ou vídeos secundários sobrepostos à narração principal. Serve para ilustrar o que está sendo dito e manter o dinamismo visual.                           |
+| **Curiosity Gap** | Lacuna de curiosidade. Técnica onde se revela parte da informação mas retém o desfecho, forçando o espectador a assistir até o final para saciar a curiosidade.  |
+| **Payoff**        | A entrega/recompensa do vídeo. O momento em que a promessa feita no hook/curiosity gap é cumprida. Se o payoff não entrega, o espectador sai frustrado.          |
+| **Retenção**      | Métrica que mostra em que porcentagem do vídeo os espectadores pararam de assistir. Fundamental para entender se o conteúdo mantém interesse.                    |
+| **Watch Time**    | Tempo total que os espectadores passaram assistindo seus vídeos. Métrica crucial para o algoritmo do YouTube.                                                    |
+| **CTR**           | Click Through Rate. Taxa de cliques = (cliques / impressões) × 100. Mede o quão atrativo é seu título + thumbnail.                                               |
 
 ---
 
@@ -58,3 +58,6 @@ Lista de termos relevantes e definições para o projeto.
 | **FB** | Facebook |
 | **TT** | TikTok |
 | **YT Shorts** | YouTube Shorts (formato vertical <60s) |
+
+## Termos novos
+- 

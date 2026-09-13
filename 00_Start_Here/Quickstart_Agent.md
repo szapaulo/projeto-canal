@@ -15,11 +15,11 @@ step_4: Execute task, log changes in Changelog
 
 | Task | Read These | Skip |
 |---|---|---|
-| Define strategy/niche | `01_Planejamento/*`, `03_Memoria/Nichos/*`, `03_Memoria/Temas/*` | Production files |
+| Define strategy/niche | `01_Planejamento/*`, `03_Conhecimento_Base/02_Taxonomia/Nichos/*`, `03_Conhecimento_Base/02_Taxonomia/Temas/*` | Production files |
 | Research a tool | `02_Estudo/Ferramentas/*` | Everything else |
 | Create a video | `04_SOPs/SOP-001_*`, `05_Prompts/Roteiro/*`, `07_Producao/*` | Study files |
 | Build an agent | `06_Agentes/*`, `01_Planejamento/Planejamento de Stack.md` | Production files |
-| Analyze metrics | `08_Metricas/*`, `03_Memoria/Padroes_Vencedores/*` | Study files |
+| Analyze metrics | `08_Metricas/*`, `03_Conhecimento_Base/05_Padroes_Vencedores/*` | Study files |
 | Build automation | `09_Automacoes/*`, `04_SOPs/*` | Content files |
 | Update project status | `00_Start_Here/Dashboard.md`, `07_Producao/Kanban.md` | — |
 | General research | `02_Estudo/*`, `01_Planejamento/Glossario.md` | Production files |
@@ -81,7 +81,7 @@ saida: string
 
 1. **R$300/month budget ceiling** — never propose costs exceeding this
 2. **Log ALL decisions** in `10_Changelog/Changelog.md`
-3. **Never delete** files from `03_Memoria/` — archive with `status: arquivado` instead
+3. **Never delete** files from `03_Conhecimento_Base/` — archive with `status: arquivado` instead
 4. **Prompt versioning** — when modifying prompts, increment version in frontmatter
 5. **No copyrighted content** — original or properly licensed only
 

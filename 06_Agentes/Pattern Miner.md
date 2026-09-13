@@ -52,7 +52,7 @@ performance:
 |---|---|
 | **Recebe de** | [[06_Agentes/Learning\|Learning]] + Database |
 | **Input** | Todos os dados históricos |
-| **Entrega para** | Obsidian (`03_Memoria/Padroes_Vencedores/`) + Orchestrator |
+| **Entrega para** | Obsidian (`03_Conhecimento_Base/05_Padroes_Vencedores/`) + Orchestrator |
 | **Output** | Padrões ranqueados por performance |
 
 ---

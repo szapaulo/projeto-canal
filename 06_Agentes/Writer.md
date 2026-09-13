@@ -53,7 +53,7 @@ O roteiro não é criado do zero — ele nasce do DNA dos conteúdos que já pro
 | Ferramenta | Propósito |
 |---|---|
 | Claude/ChatGPT | Criação do roteiro |
-| Obsidian | Referência: `03_Memoria/Roteiros/` |
+| Obsidian | Referência: `07_Producao/Roteiros/` |
 
 ---
 

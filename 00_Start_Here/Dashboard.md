@@ -83,7 +83,7 @@ TABLE WITHOUT ID
   file.link AS "Experimento",
   status AS "Status",
   resultado AS "Resultado"
-FROM "03_Memoria/Experimentos"
+FROM "03_Conhecimento_Base/06_Experimentos"
 WHERE type = "experimento"
 SORT file.mtime DESC
 ```

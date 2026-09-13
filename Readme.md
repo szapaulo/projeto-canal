@@ -45,7 +45,7 @@ The Polvo is not a set of AI tools. It is a **closed-loop agentic system** that 
 | `00_Start_Here/` | Dashboard, quickstart for AI agents, entry MOC | EN |
 | `01_Planejamento/` | Strategy, budget, stack definition, context, glossary | pt-BR |
 | `02_Estudo/` | Research on tools, platforms, concepts, algorithms | pt-BR |
-| `03_Memoria/` | Accumulated knowledge: niches, virals, hooks, themes, angles, formats, patterns, experiments | pt-BR |
+| `03_Conhecimento_Base/` | Base de conhecimento: nichos, virais, hooks, temas, ângulos, formatos, padrões, experimentos | pt-BR |
 | `04_SOPs/` | Standard Operating Procedures (step-by-step guides) | EN |
 | `05_Prompts/` | Versioned prompt library organized by agent type | EN |
 | `06_Agentes/` | Agent definitions: responsibilities, inputs, outputs, tools | EN |
@@ -102,7 +102,7 @@ When operating in this repository, follow this reading order to minimize token u
 | 4 | `10_Changelog/Changelog.md` (last 3 entries) | Recent decisions and context |
 | 5 | Task-specific files only | Read only what the task requires |
 
-**Skip** unless explicitly needed: `03_Memoria/*`, `08_Metricas/*`, `Assets/*`, any file with `status: arquivado` in frontmatter.
+**Skip** unless explicitly needed: `03_Conhecimento_Base/*`, `08_Metricas/*`, `Assets/*`, any file with `status: arquivado` in frontmatter.
 
 ---
 
@@ -116,7 +116,7 @@ When operating in this repository, follow this reading order to minimize token u
 | Templates | `99_Templates/` | Standardized note creation |
 | Properties | All notes | YAML frontmatter for metadata |
 | Bases | `08_Metricas/` | Structured data for analytics |
-| Canvas | `03_Memoria/` | Visual relationship maps |
+| Canvas | `03_Conhecimento_Base/` | Visual relationship maps |
 
 ---
 

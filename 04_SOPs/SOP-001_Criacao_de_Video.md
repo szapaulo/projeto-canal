@@ -62,7 +62,7 @@ Define the end-to-end autonomous flow for creating a single video, from opportun
 4. Orchestrator selects the highest-potential opportunity
 
 **Output:**
-- `03_Memoria/Virais/` — cataloged viral with metadata
+- `03_Conhecimento_Base/04_Virais_Tendencias/` — cataloged viral with metadata
 - Research brief: `07_Producao/Ideias/` — new idea note created
 
 ---
@@ -79,8 +79,8 @@ Define the end-to-end autonomous flow for creating a single video, from opportun
 3. Generate DNA report
 
 **Output:**
-- DNA structure saved to viral note in `03_Memoria/Virais/`
-- Extracted patterns stored in `03_Memoria/Padroes_Vencedores/` if new
+- DNA structure saved to viral note in `03_Conhecimento_Base/04_Virais_Tendencias/`
+- Extracted patterns stored in `03_Conhecimento_Base/05_Padroes_Vencedores/` if new
 
 ---
 
@@ -113,7 +113,7 @@ Define the end-to-end autonomous flow for creating a single video, from opportun
 
 **Output:**
 - Hook list in idea note
-- Hooks cataloged in `03_Memoria/Hooks/`
+- Hooks cataloged in `03_Conhecimento_Base/03_Formatos_Hooks/Hooks/`
 
 ---
 
@@ -294,7 +294,7 @@ Define the end-to-end autonomous flow for creating a single video, from opportun
 3. Pattern Miner searches for correlations across all published content
 
 **Output:**
-- Updated `03_Memoria/Padroes_Vencedores/`
+- Updated `03_Conhecimento_Base/05_Padroes_Vencedores/`
 - Updated agent prediction weights
 - Memory stored in Obsidian
 

@@ -54,7 +54,7 @@ Especialista em ângulo. Para um mesmo tema, gera múltiplas formas de abordagem
 | Ferramenta | Propósito |
 |---|---|
 | Claude/ChatGPT | Geração criativa de ângulos |
-| Obsidian | Consultar `03_Memoria/Angulos/` |
+| Obsidian | Consultar `03_Conhecimento_Base/07_Angulos/` |
 
 ---
 
